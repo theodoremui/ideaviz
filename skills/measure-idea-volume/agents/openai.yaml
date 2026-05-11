@@ -1,0 +1,4 @@
+interface:
+  display_name: "Measure Idea Volume"
+  short_description: "Compute idea-space breadth from embedding cosine dispersion."
+  default_prompt: "Use this skill to measure idea volume from text or embedding sets with normalized pairwise cosine distance."
